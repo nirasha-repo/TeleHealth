@@ -1,15 +1,23 @@
 # TeleHealth
+==============
 
 This is a simple dashboard to add and display patient details. 
 The solution consists of API Controller along with a simple UI.
 
-Download the project and Run Locally : https://localhost:44300/
+Running Instruction:
+====================
 
-(UI build is also handled through the .Net build process) 
+Download the project from git repo and open in VS 2019.
+
+Build and Run. (UI build is also handled through the .Net build process) 
+
+Local URL : https://localhost:44300/
 
 Swagger API Documentation : https://localhost:44300/swagger/index.html
 
+
 Technologies Used : 
+===================
 
 - C# .Net Core 2.2 / React JS   
 - SQLite DB for database
@@ -19,14 +27,17 @@ Technologies Used :
 - VS 2019
 
 
-Things Achieved
+Things Achieved :
+=================
 
 - API controller implemented with server side validation / simple authentication / unit testing with Dependency Injection
 - DB integration
 - Simple UI with certain front end validation and working functionality with console logging
 - Logging and Error Handling 
 
-Things to improve
+
+Things to improve :
+=====================
 
 - UI look and feel can be improved
 - Front end unit tests to be written
@@ -41,4 +52,4 @@ Things to improve
 
 
 
-
+- Designed and Developed by Nirasha Gunasekera (March 2020)
