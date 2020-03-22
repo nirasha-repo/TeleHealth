@@ -1,8 +1,11 @@
 # TeleHealth
+
 This is a simple dashboard to add and display patient details. 
 The solution consists of API Controller along with a simple UI.
 
 Download the project and Run Locally : https://localhost:44300/
+
+(UI build is also handled through the .Net build process) 
 
 Swagger API Documentation : https://localhost:44300/swagger/index.html
 
@@ -16,7 +19,7 @@ Technologies Used :
 - VS 2019
 
 
-Things Acieved
+Things Achieved
 
 - API controller implemented with server side validation / simple authentication / unit testing with Dependency Injection
 - DB integration
