@@ -1,0 +1,57 @@
+﻿a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;    
+}
+
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;    
+  }
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.link:hover {
+    font-weight: bold;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.invalid-field {
+    background-color: #ffdddd;
+}
+
+.valid-field {
+    background-color: #ffffff;
+}
+
+.invalid-text {
+    color: red;    
+}
+
+.hide {
+    display:none;
+}
+
+.show {
+    display: block;
+}
+
+
+
+
